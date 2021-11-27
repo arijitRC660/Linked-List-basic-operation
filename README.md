@@ -1,2 +1,2 @@
-# Linked-List-basic-operation
-Add nodes in linked list, display data of linked list (lanuage-C)
+# Linked-List-insertion & display-operation-with-c
+Add nodes in linked list and  display data of linked list (lanuage-C)
